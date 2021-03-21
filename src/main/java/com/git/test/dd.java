@@ -1,7 +1,7 @@
 package com.git.test;
 
-public class three {
+public class dd {
     public static void main(String[] args) {
-      System.out.println("this is thress");
+      System.out.println("this is dd");
     }
 }
